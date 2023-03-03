@@ -47,7 +47,7 @@ GIF created with **Kap**
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-
+**I learned how to navigate in android studio, as well as how to change different parts of this project.**
 ## License
 
 Copyright **2023** **Reagan Dhar**
