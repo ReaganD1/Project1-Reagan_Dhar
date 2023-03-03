@@ -2,13 +2,13 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: Reagan Dhar
+Submitted by: **Reagan Dhar**
 
-Time spent: 5 hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **This app has a profile that includes the user's bio and 3 hobbies about themselves.**
 
 If I had to describe this project in three (3) emojis, they would be: **🙂👍🏻🙁**
 
@@ -34,10 +34,10 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+**https://imgur.com/a/z2LUNeF**
+<img src='https://imgur.com/a/z2LUNeF.gif' title='Video Demo' width='' alt='Video Demo' />
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-
-GIF created with **your chosen GIF tool**
+GIF created with **Kap**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -50,7 +50,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **Name**
+Copyright **2023** **Reagan Dhar**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
